@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/IExtraclase_DatosII.dir/main.cpp.o CMakeFiles/IExtraclase_DatosII.dir/node.cpp.o CMakeFiles/IExtraclase_DatosII.dir/list.cpp.o CMakeFiles/IExtraclase_DatosII.dir/Collector.cpp.o CMakeFiles/IExtraclase_DatosII.dir/Cnode.cpp.o  -o IExtraclase_DatosII 
